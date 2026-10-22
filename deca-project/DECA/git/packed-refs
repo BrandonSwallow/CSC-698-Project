@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+67fdbed18a16c8655630cc3bf7863629a2f31730 refs/remotes/origin/dependabot/pip/numpy-1.22.0
+49ace6bf57a7c04fdc0ec28954eec0347b55f019 refs/remotes/origin/dependabot/pip/opencv-python-4.2.0.32
+df945aa3ec711c06485871cf1603031b568f5c39 refs/remotes/origin/dependabot/pip/scipy-1.10.0
+801dc358e69b4d8b57462f9dbe23a336c87f2812 refs/remotes/origin/dependabot/pip/torch-1.13.1
+a11554ae2a2b0f3998cf1fa94dd4db03babb34a2 refs/remotes/origin/master
+a8e84bf955bc87477fafcc1e97e45c6ca166d366 refs/remotes/origin/training
